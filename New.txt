@@ -1,0 +1,4 @@
+Singapore	1122
+London	10000
+NY	14239
+Mumbai	18000
