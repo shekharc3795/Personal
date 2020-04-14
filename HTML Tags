@@ -6,3 +6,7 @@
 <ol> #Ordered list
 <li> # List items will become ordered or unordered based in type of the list
 <img src = [image.jpg]> #Image file
+<table> # Display data in table format
+<th>  # Table header
+<tr> #table row
+<td> #table data
