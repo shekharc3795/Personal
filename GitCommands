@@ -5,3 +5,4 @@ git add # Add the file to local reposutory
 git commit #Commit a file to local repository
 git status #Current status of commits
 git push #push the file to central repository
+git pull #bring the changes to local directory
