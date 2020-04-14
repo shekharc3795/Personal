@@ -1,2 +1,8 @@
 <Head> # Header
-<Body>
+<Title> #Title of the HTML page
+<Body> #Body 
+<h1> #h1 to h6 is text sizes from largest to smallest
+<ul> #Unordered list
+<ol> #Ordered list
+<li> # List items will become ordered or unordered based in type of the list
+<img src = [image.jpg]> #Image file
