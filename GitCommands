@@ -1,0 +1,7 @@
+git clone <Repository Name> # to clone a file from github
+touch <File name> # to create a file in the local repository
+Nano #Start local text editor
+git add # Add the file to local reposutory
+git commit #Commit a file to local repository
+git status #Current status of commits
+git push #push the file to central repository
