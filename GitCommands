@@ -8,3 +8,4 @@ git push #push the file to central repository
 git pull #bring the changes to local directory
 git reset -- hard <commit>
 git reset --hard origin/master
+open <html file> #Open the html file in default browser
